@@ -1,0 +1,30 @@
+
+.navbar{
+    height: 70px;
+    /* border: 1px solid red; */
+    background-color: #2874f0;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.shopsite{
+    /* border: 1px solid gray; */
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+    height: 30px;
+}
+.shopsite h3{
+    color: white;
+    font-weight: bold;
+}
+
+
+.img{
+ height: 65px;
+ border-radius: 20px;
+}
+button i{
+color: white;
+}
